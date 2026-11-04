@@ -63,7 +63,7 @@ The Parking Inventory System is a centralized digital platform designed to help 
 
 - FR-01: Given a valid vehicle number, an authorized employee can create a parking transaction successfully.
 - FR-02: Selecting Car or Bike records the correct vehicle category for the transaction.
-- FR-03: A parking transaction displays its recorded date and time.
+- FR-03:The system should  its recorded date and time.
 - FR-04: Selecting a parking location associates the transaction with that location.
 - FR-05: Creating a transaction generates a unique token or invoice number.
 - FR-06: Given a vehicle category and parking location, the transaction displays the applicable parking fee.
